@@ -1,4 +1,4 @@
-# internship_project
+# Carbon Market Data Analysis
 Project Name: Carbon Market Data Analysis
 
 Description: This project focuses on analyzing data from carbon markets, including carbon project data, top project developers, and carbon credit buyers. It involves data cleaning, standardization, aggregation, and analysis to uncover trends in carbon credit issuances and retirements.
